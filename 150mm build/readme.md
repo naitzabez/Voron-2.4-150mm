@@ -1,6 +1,9 @@
 
 <h1> VORON 2.4, 150mm skirt build </h1>
 
+TODO: Add empty 6020 fan holder. 
+TODO: Add thin 6020 fan cover. 
+TODO: Actually test the skirts.. 
 
 
 ![alt text](https://i.imgur.com/Vq2rnOL.png)
@@ -14,3 +17,5 @@ Note that these are not official skirts and are heavily inspired by the stock sk
 Note that these skirts do NOT host a mount for any display, the files may be edited so such can be used. 
 
 The side skirts hosts a single 6020 fan, and the skirts are intended to be used with a 290x290mm bottom panel. 
+
+Made by Sebbe#2647 on the Voron discord. 
