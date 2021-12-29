@@ -2,10 +2,12 @@
 <h1> VORON 2.4, 150mm skirt build </h1>
 
 
-TODO: Add empty 6020 fan holder. 
+ TODO: Add empty 6020 fan holder. 
  --- 
- --- TODO: Add thin 6020 fan cover. 
- --- TODO: Actually test the skirts.. 
+ TODO: Add thin 6020 fan cover. 
+ --- 
+ TODO: Actually test the skirts.. 
+ ---
 
 
 ![alt text](https://i.imgur.com/Vq2rnOL.png)
