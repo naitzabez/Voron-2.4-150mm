@@ -22,4 +22,8 @@ Note that these skirts do NOT host a mount for any display, the files may be edi
 
 The side skirts hosts a single 6020 fan, and the skirts are intended to be used with a 290x290mm bottom panel. 
 
+
+<B> Bugfixes: Right & Left skirt had a part that would print mid air, added a slope so that should no longer be an issue. 2021-12-29 </B>
+
+
 Made by Sebbe#2647 on the Voron discord. 
