@@ -18,7 +18,7 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 
 
 <B> Bugfixes: Right & Left skirt had a part that would print mid air, added a slope so that should no longer be an issue. 2021-12-29 </B> <br>
-<B> Updates: Added extrusion placeholder, added mounts for PSU (uhp350-24). Also added mounting points on the skirts. Added accent color voron logo for each side.
-<B> TODO: Add mount for octopus + rpi zero 2w
+<B> Updates: Added extrusion placeholder, added mounts for PSU (uhp350-24). Also added mounting points on the skirts. Added accent color voron logo for each side.</B> <br>
+ <B> TODO: Add mount for octopus + rpi zero 2w </B>
 
 Made by Sebbe#2647 on the Voron discord. 
