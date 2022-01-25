@@ -1,8 +1,8 @@
 
-<h1> VORON 2.4, 150mm skirt build </h1>
+<h1> VORON 2.4, 150mm skirt build </h1><br>
 
- ---
-
+ --- <br>
+<B> STLS MAY NEED TO BE ADJUSTED IN SLICER FOR OPTIMAL PRINTABILLITY!! </B><br>
 
 ![alt text](https://i.imgur.com/dJ7EcDu.png)
 
