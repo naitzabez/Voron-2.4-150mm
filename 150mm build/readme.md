@@ -24,6 +24,8 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 
 <i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br><h3>
-
+<br>
+  TODO: Remove trim some pieces to save plastic.
+  </br>
 Made by Sebbe#2647 on the Voron discord. 
 </h3>
