@@ -21,10 +21,10 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 
 <del><B> TODO: Add mount for octopus + rpi zero 2w </B></del> -- done  <br><br>
 <B> Bugfixes: Right & Left skirt had a part that would print mid air, added a slope so that should no longer be an issue. 2021-12-29 </B> 
-<br><br>
+<br><br></h3>
 
-</h3>
 ![alt text](https://i.imgur.com/QZugPbe.png)
+
 <i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br><h3>
 
