@@ -4,7 +4,7 @@
  --- <br>
 <B> STLS MAY NEED TO BE ADJUSTED IN SLICER FOR OPTIMAL PRINTABILLITY!! </B><br>
 
-![alt text](https://i.imgur.com/dJ7EcDu.png)
+![alt text](https://i.imgur.com/clIkP2o.png)
 
 
 
