@@ -2,7 +2,7 @@
 <h1> VORON 2.4, 150mm skirt build </h1><br>
 
 <br>
-<B> STLS MAY NEED TO BE ADJUSTED IN SLICER FOR OPTIMAL PRINTABILLITY!! </B><br>
+<B> Many if not all stls need to have their orientation adjusted in slicer. </B><br>
 
 ![alt text](https://i.imgur.com/clIkP2o.png)
 
