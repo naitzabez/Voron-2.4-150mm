@@ -2,11 +2,11 @@
 <h1><B> VORON 2.4, 150mm skirt build </B></h1><br>
 
 <br>
-<h3><B> Many if not all stls need to have their orientation adjusted in slicer. </B>
+<h1><B> Many if not all stls need to have their orientation adjusted in slicer. </B></h1>
 <br>
 
 ![alt text](https://i.imgur.com/clIkP2o.png)
-  </h3><i> All parts use M3 hardware & standard heatsets. </i>
+<i> All parts use M3 hardware & standard heatsets. </i>
 <br><h3>
 The only difference between the voron builds are the skirt sizes, sadly, i could not find skirts for 150mm builds anywhere online so i made my own. 
 These skirts where designed for 2020 I-type extrusions with 5mm width, this means they will work on pretty much any 2020 extrusion, however, there might be alignment issues as the indexing parts are 5mm wide instead of 6mm.
