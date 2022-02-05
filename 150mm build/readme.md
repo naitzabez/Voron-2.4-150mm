@@ -25,7 +25,7 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 <i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br><h3>
 <br>
-UPDATE 05/02 2022 ----------------------------- <br>ADDED JIGS FOR CUTTING ACM & DRILLING BED. <br> ADDED CLAMP FOR INLET. <br>REMOVED AN ERROR IN THE REAR SKIRT. <br>ADDED BED MODEL, SPACERS, BED EXTRUSIONS & CORNER BRACKETS <br> -----------------------------
+<h1> UPDATE 05/02 2022 <br>ADDED JIGS FOR CUTTING ACM & DRILLING BED. <br> ADDED CLAMP FOR INLET. <br>REMOVED AN ERROR IN THE REAR SKIRT. <br>ADDED BED MODEL, SPACERS, BED EXTRUSIONS & CORNER BRACKETS <br> </h1>
 <br>
 <br>
 Made by Sebbe#2647 on the Voron discord. 
