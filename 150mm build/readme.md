@@ -7,7 +7,7 @@
 <br>
 
 ![alt text](https://i.imgur.com/1I0XM2c.png)
-<i> All parts use M3 hardware & standard heatsets. </i>
+<br><i> All parts use M3 hardware & standard heatsets. </i>
 <br><h3>
 The only difference between the voron builds are the skirt sizes, sadly, i could not find skirts for 150mm builds anywhere online so i made my own. 
 These skirts where designed for 2020 I-type extrusions with 5mm width, this means they will work on pretty much any 2020 extrusion, however, there might be alignment issues as the indexing parts are 5mm wide instead of 6mm.
@@ -22,11 +22,11 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 
 ![alt text](https://i.imgur.com/YM9he0J.png)
 
-<i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
+<br><i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br>
 <br>
 ![alt text](https://i.imgur.com/G3Pu75J.png)
-<i> There's close to 40mm clearence from the octopus holder to the bottom panel, should be more than enough space. All panels are 3mm thick. </i>
+<br><i> There's close to 40mm clearence from the octopus holder to the bottom panel, should be more than enough space. All panels are 3mm thick. </i>
 <br>
 <h3>
 <br>
