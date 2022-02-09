@@ -21,7 +21,7 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 <br><br></h3>
 
 ![alt text](https://i.imgur.com/YM9he0J.png)
-<i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
+<br><i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br>
 <br>
 ![alt text](https://i.imgur.com/G3Pu75J.png)
