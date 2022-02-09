@@ -27,7 +27,9 @@ The front skirt hosts a single 6020 fan. All panels sizes are the same as the vo
 ![alt text](https://i.imgur.com/G3Pu75J.png)
 <br><i> There's close to 40mm clearence from the octopus holder to the bottom panel, should be more than enough space. All panels are 3mm thick. </i>
 <br>
-ELECTRONICS USED: <a href="https://www.amazon.se/3Dman-Rocker-Switch-Socket-3-pinowy/dp/B07RRY5MYZ/ref=sr_1_1?crid=2KFLWR4RUO5WN&keywords=3dman%2Binlet&qid=1644425994&sprefix=3dman%2Binle%2Caps%2C142&sr=8-1&th=1"> INLET </a>
+<h2>PSU & INLET:<br> <a href="https://www.amazon.se/3Dman-Rocker-Switch-Socket-3-pinowy/dp/B07RRY5MYZ/ref=sr_1_1?crid=2KFLWR4RUO5WN&keywords=3dman%2Binlet&qid=1644425994&sprefix=3dman%2Binle%2Caps%2C142&sr=8-1&th=1"> INLET </a><br>
+  <a href="https://www.amazon.se/str%C3%B6mf%C3%B6rs%C3%B6rjning-MeanWell-UHP-350-24-transformator-LED-lampor/dp/B07V4293NW/ref=sr_1_1?crid=37WZD3VS4UZBE&keywords=uhp+350-24&qid=1644426236&sprefix=uhp+350-24%2Caps%2C73&sr=8-1"> PSU </a><br>
+</h2>
 <h3>
 <br>
 <h1> UPDATE 05/02 2022: <br>ADDED JIGS FOR CUTTING ACM & DRILLING BED. <br> ADDED CLAMP FOR INLET. <br>REMOVED AN ERROR IN THE REAR SKIRT. <br>ADDED BED MODEL, SPACERS, BED EXTRUSIONS & CORNER BRACKETS <br> </h1>
