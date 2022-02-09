@@ -17,7 +17,7 @@ Note that these are not official skirts and are heavily inspired by the stock sk
 Note that these skirts do NOT host a mount for any display, the files may be edited so such can be used. 
 <br>
 
-The front skirt hosts a single 6020 fan, and the skirts are intended to be used with a 280x280mm bottom panel. 
+The front skirt hosts a single 6020 fan, and the skirts are intended to be used with a 284x284mm bottom panel. 
 <br><br></h3>
 
 ![alt text](https://i.imgur.com/YM9he0J.png)
