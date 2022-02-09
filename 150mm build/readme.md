@@ -1,4 +1,4 @@
-<h1><B> IF THERES MISSING STLS THEN THEY'RE IN THE F3D ASSEMBLY!!!! </B></h1><br>
+<h1><B> F3D FILE IS ALWAYS UP TO DATE! STLS MAY NOT BE LATEST REV & CONTAIN BUGS. THIS PROJECT IS NOT FINISHED YET. </B></h1><br>
 <h1><B> VORON 2.4, 150mm (single) skirt build </B></h1><br>
 <br>
 <h1><B>THIS BUILD USES: 6020Fan / 6025Fan, BTT Octopus 1.1, UHP350-24 (full dc build) & Raspberry pi 2w.</B></h1>
