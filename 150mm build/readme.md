@@ -24,6 +24,7 @@ The front skirt hosts a single 6020 fan, and the skirts are intended to be used 
 
 <i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br>
+<br>
 ![alt text](https://i.imgur.com/G3Pu75J.png)
 <i> There's close to 40mm clearence from the octopus holder to the bottom panel, should be more than enough space. All panels are 3mm thick. </i>
 <br>
