@@ -8,6 +8,7 @@
 <br>
 <h1><B> Many if not all stls need to have their orientation adjusted in slicer. </B></h1>
 <br>
+
 ![alt text](https://i.imgur.com/4vnkjMi.png) 
 
 
