@@ -4,7 +4,7 @@
 <h1><B> F3D FILE IS ALWAYS UP TO DATE!</B></h1><br>
 <h1><B> VORON 2.4, 150mm (single) skirt build </B></h1><br>
 <br>
-<h1><B>THIS BUILD USES: 6020Fan / 6025Fan, BTT Octopus 1.1, UHP350-24 (full dc build) & Raspberry pi 2w.</B></h1>
+<h1><B>THIS BUILD USES: 6020Fan / 6025Fan, BTT Octopus 1.1, UHP350-24 (full dc build) & Raspberry pi 3b/4b.</B></h1>
 <br>
 <h1><B> Many if not all stls need to have their orientation adjusted in slicer. </B></h1>
 <br>
