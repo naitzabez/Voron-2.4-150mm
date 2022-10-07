@@ -20,13 +20,10 @@ Note that these skirts do NOT host a mount for any display, the files may be edi
 The front skirt hosts a single 6020 fan. All panels sizes are the same as the voron 2.4 configurator suggets for 150mm^3 size. 
 <br><br></h3>
 
-![alt text](https://i.imgur.com/YM9he0J.png)
 <br><i> Because the brackets for the electronics are mounted in the 2020 extrusions, you may "slide" the electronics into desired position. </i>
 <br>
 <br>
-![alt text](https://i.imgur.com/G3Pu75J.png)
-<br><i> There's close to 40mm clearence from the octopus holder to the bottom panel, should be more than enough space. All panels are 3mm thick. </i>
-<br>
+
 <h2>PSU & INLET:<br> <a href="https://www.amazon.se/3Dman-Rocker-Switch-Socket-3-pinowy/dp/B07RRY5MYZ/ref=sr_1_1?crid=2KFLWR4RUO5WN&keywords=3dman%2Binlet&qid=1644425994&sprefix=3dman%2Binle%2Caps%2C142&sr=8-1&th=1"> INLET </a><br>
   <a href="https://www.amazon.se/str%C3%B6mf%C3%B6rs%C3%B6rjning-MeanWell-UHP-350-24-transformator-LED-lampor/dp/B07V4293NW/ref=sr_1_1?crid=37WZD3VS4UZBE&keywords=uhp+350-24&qid=1644426236&sprefix=uhp+350-24%2Caps%2C73&sr=8-1"> PSU </a><br>
 </h2>
