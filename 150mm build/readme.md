@@ -1,14 +1,14 @@
 ![alt text](https://i.imgur.com/ft6q1tp.jpg!)
 
 
-<h1><B> F3D FILE IS ALWAYS UP TO DATE! STLS MAY NOT BE LATEST REV & CONTAIN BUGS. THIS PROJECT IS NOT FINISHED YET. </B></h1><br>
+<h1><B> F3D FILE IS ALWAYS UP TO DATE!</B></h1><br>
 <h1><B> VORON 2.4, 150mm (single) skirt build </B></h1><br>
 <br>
 <h1><B>THIS BUILD USES: 6020Fan / 6025Fan, BTT Octopus 1.1, UHP350-24 (full dc build) & Raspberry pi 2w.</B></h1>
 <br>
 <h1><B> Many if not all stls need to have their orientation adjusted in slicer. </B></h1>
 <br>
-![alt text](https://i.imgur.com/1I0XM2c.png)
+![alt text]([https://i.imgur.com/1I0XM2c.png](https://i.imgur.com/4vnkjMi.png))
 <br><i> All parts use M3 hardware & standard heatsets. </i>
 <br><h3>
 The only difference between the voron builds are the skirt sizes, sadly, i could not find skirts for 150mm builds anywhere online so i made my own. 
