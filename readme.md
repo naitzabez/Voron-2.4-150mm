@@ -11,6 +11,7 @@
 
 ![alt text](https://i.imgur.com/4vnkjMi.png) 
 
+![alt text](https://i.imgur.com/8HV7YcA.png) 
 
 <br><h3>
 The only difference between the voron builds are the skirt sizes, sadly, i could not find skirts for 150mm builds anywhere online so i made my own. 
